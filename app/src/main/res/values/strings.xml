@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BindingLearningKotlin</string>
+    <string name="result_text_view_plain_text">Result will be here</string>
+    <string name="get_sum_button_text">Get sum</string>
+    <string name="first_number_editText_hint">First number</string>
+    <string name="second_number_editText_hint">Second number</string>
 </resources>
